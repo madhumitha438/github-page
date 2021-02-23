@@ -26,6 +26,7 @@
 def python():
 
 table| table2
+-----|-------
 http://en.wikipedia.org/wiki/SHA-1
 
 First Header | Second Header
