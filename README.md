@@ -23,3 +23,7 @@
 [google] (https://www.google.com/)
 
 !(alt) (https://akshardham.com/)
+def python():
+
+table| table2
+http://en.wikipedia.org/wiki/SHA-1
