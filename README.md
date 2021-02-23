@@ -22,4 +22,4 @@
  
 [google] (https://www.google.com/)
 
-!(alt) (https://zeenews.india.com/india/unlock-5-0-delhis-swaminarayan-akshardham-temple-to-reopen-from-october-13-check-out-guidelines-2314907.html)
+!(alt) (https://akshardham.com/)
